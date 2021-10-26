@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Helilo World App",
   "main": "server.js",
-  "scripts": "run server.js",
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
